@@ -1,5 +1,6 @@
 ## 🧱 Lego Interactive Dashboard – Power BI Project
 
+![Lego Logo](https://github.com/user-attachments/assets/13d12f52-0013-4e65-8bbf-37c4768eb82f)
 
 
 This project showcases an **interactive Power BI dashboard** designed to explore and analyze a dataset of over **4,000 LEGO sets**.  
@@ -9,6 +10,10 @@ Using Power BI’s powerful visualization and reporting capabilities, the dashbo
 - **Number of Pieces**
 - **Age Range**
 - **Price**
+
+![Power BI Lego Dashboard](https://github.com/user-attachments/assets/f2a42d69-02b0-42ab-87b9-749cd5502839)
+
+
 
 ### 📊 Key Benefits of This Visualization
 
